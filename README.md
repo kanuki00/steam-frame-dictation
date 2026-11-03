@@ -8,6 +8,13 @@ MIT licensed. See [LICENSE](LICENSE) and [third-party notices](third_party/READM
 
 ## Install
 
+### Prerequisites:
+The desktop in the default VR view on the steam frame doesn't easily allow you to run various commands (such as those required by the install script). There are two ways of circumventing this:
+1. Reboot the frame into desktop mode and run the script there.
+2. modify (temporarily) your terminal instance in the default mode in order to run the install script.
+
+## Running the script
+
 In your console, run:
 
 ```sh
